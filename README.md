@@ -4,6 +4,8 @@
 
 ### <b>I'm a junior Data and Machine Learning Engineer capable of acquiring data from different sources, ingesting, transforming, versioning, and storing data creating a scalable and efficient pipeline with tools such as Kafka, airflow, python, spark, and lambda. I do have experience working with real-world data and machine algorithms at a production level.</b>
 
+---
+
 ## Quick fire
 
 - 🔭 I’m currently working on Using Computer Visions to detect terminal Diseases
@@ -29,6 +31,16 @@
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Blisse's GitHub stats](https://github-readme-stats.vercel.app/api?username=blvisse&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github-readme-stats.vercel.app/@blvisse)
+)](https://github.com/blvisse/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blvisse)](https://github.com/blvisse/github-readme-stats)
+
+[![Blvisse's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blvisse&show_icons=true)
+)](https://github.com/blvisse/github-readme-stats)
 
 <!--
 **Blvisse/blvisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
