@@ -54,6 +54,8 @@ Have a look at my [portfolio]
 
 [![my wakatime](https://wakatime.com/badge/user/dd21d0bd-c129-4f2a-9f24-197591c53d33.svg?style=for-the-badge)] (https://wakatime.com/@dd21d0bd-c129-4f2a-9f24-197591c53d33)
 
+[![wakatime](https://wakatime.com/badge/user/dd21d0bd-c129-4f2a-9f24-197591c53d33.svg)](https://wakatime.com/@dd21d0bd-c129-4f2a-9f24-197591c53d33)
+
 [![Blvisse's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blvisse&show_icons=true)
 ](https://github.com/blvisse/github-readme-stats)
 
