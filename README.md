@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Blaise Papa
 
-## I'm a junior Data and Machine Learning Engineer
+## Who am I?
+
+### <b>I'm a junior Data and Machine Learning Engineer capable of acquiring data from different sources, ingesting, transforming, versioning, and storing data creating a scalable and efficient pipeline with tools such as Kafka, airflow, python, spark, and lambda. I do have experience working with real-world data and machine algorithms at a production level.</b>
+
+## Quick fire
 
 - 🔭 I’m currently working on Using Computer Visions to detect terminal Diseases
 - 🌱 I’m currently learning Web3.0 and Docker
@@ -13,8 +17,18 @@
 ### Reach out or have a look at some of my work:
 
 [portfolio]
+
 [linkedIn]
+
 [Medium]
+
+## Languages and tools
+
+## Blogs
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **Blvisse/blvisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
