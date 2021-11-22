@@ -41,7 +41,6 @@ Have a look at my [portfolio]
 ## Blogs
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Data Ingestion using Pandas](https://medium.com/@blaisepke/data-ingestion-using-pandas-4bd68bcadd2a?source=rss-8d0a4b909c67------2)
 - [F1 data analysis using python and Tableau](https://medium.com/@blaisepke/f1-data-analysis-using-python-and-tableau-6b163b3ed186?source=rss-8d0a4b909c67------2)
 <!-- BLOG-POST-LIST:END -->
