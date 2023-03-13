@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-<b>I'm a junior Data and Machine Learning Engineer capable of acquiring data from different sources, ingesting, transforming, versioning, and storing data creating a scalable and efficient pipeline with tools such as Kafka, airflow, python, spark, and lambda. I do have experience working with real-world data and machine algorithms at a production level.</b>
+<b>A results-driven and experienced data engineer with 3 years of experience in the field, adept at designing, developing and implementing robust and scalable data pipeline solutions. Possessing a strong technical background in programming languages such as Python and SQL, as well as hands-on experience with big data technologies such as Hadoop and Spark. A deep understanding of data warehousing principles and methodologies, and a proven ability to work with both structured and unstructured data.</b>
 
 ---
 
